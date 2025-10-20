@@ -4,7 +4,7 @@ This guide provides step-by-step instructions on how to load and configure the n
 
 ## Step 1: Download HTTP Debugger and Create New Rule for Auto Reply
 
-![Step 1 - Creating Auto Reply Rule]([https://i.imgur.com/i1tWZPn](https://imgur.com/a/i1tWZPn))
+![Step 1 - Creating Auto Reply Rule](imgs/createrule1.png)
 
 > **Note:** Ensure the tool is running as an administrator if dealing with HTTPS traffic. Import any necessary certificates for secure connections.
 
