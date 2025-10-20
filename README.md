@@ -6,7 +6,7 @@ a Becouse this dumbass is using loadlibrary and stores dll on disk which is prot
 
 q Whats the reason behind this
 
-a I was bored and i hate when russians sell to dumb people something thats pasted eg. Nonagon-cs2-cmake/darkside_sdk
+a i hate when russians sell to dumb people something thats pasted eg. Nonagon-cs2-cmake/darkside_sdk
 
 if you wanna talk with us join us here https://discord.gg/zyMbyuBNRj
 
