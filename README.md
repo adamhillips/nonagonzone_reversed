@@ -4,18 +4,7 @@ This guide provides step-by-step instructions on how to load and configure the n
 
 ## Step 1: Download HTTP Debugger and Create New Rule for Auto Reply
 
-1. Download and install an HTTP debugging tool such as [HTTP Debugger](https://www.httpdebugger.com/) or a similar proxy like Fiddler or Charles.
-
-2. Launch the tool and navigate to the rules or auto-response section.
-
-3. Create a new rule for auto-reply:
-   - Set the condition (e.g., URL pattern matching your target endpoint).
-   - Define the response (e.g., custom JSON or status code).
-   - Enable the rule.
-
-For a visual guide, see the screenshot below:
-
-![Step 1 - Creating Auto Reply Rule](https://i.imgur.com/i1tWZPn.png)
+![Step 1 - Creating Auto Reply Rule]([https://i.imgur.com/i1tWZPn](https://imgur.com/a/i1tWZPn))
 
 > **Note:** Ensure the tool is running as an administrator if dealing with HTTPS traffic. Import any necessary certificates for secure connections.
 
