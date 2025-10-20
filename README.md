@@ -36,7 +36,8 @@ Content: {
       "username" : "fuckthispaste"
    }
 }
-##Keep in mind this has to be enabled before inject
+
+## Keep in mind this has to be enabled before inject
 
 ![Step 1 - Creating Auto Reply Rule](imgs/createrule2.png)
 
