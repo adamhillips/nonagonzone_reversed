@@ -11,7 +11,7 @@ a I was bored and i hate when russians sell to dumb people something thats paste
 
 # How to Load
 
-This guide provides step-by-step instructions on how to load and configure the necessary tools for intercepting and auto-replying HTTP requests.
+injection guide
 
 ## Step 1: Download HTTP Debugger and Create New Rule for Auto Reply
 
