@@ -1,3 +1,12 @@
+
+# Introduction and explanations
+q Why do you have do these steps?
+a Becouse this dumbass is using loadlibrary and stores dll on disk which is protected with VMProtect i could just dump it and fix it from memory but why am i gonna spend time on this when i can do it the easy way
+
+q Whats the reason behind this
+a I was bored and i hate when russians sell to dumb people something thats pasted eg. Nonagon-cs2-cmake/darkside_sdk
+
+
 # How to Load
 
 This guide provides step-by-step instructions on how to load and configure the necessary tools for intercepting and auto-replying HTTP requests.
