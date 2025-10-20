@@ -44,7 +44,7 @@ Content: {
 Extract pastedshit into a folder and inject dll with loadlibrary
 
 
-![Step 1 - Creating Auto Reply Rule](imgs/pasteshowed.png)
+![Step 1 - Creating Auto Reply Rule](imgs/pasteshowed.PNG)
 
 
 
